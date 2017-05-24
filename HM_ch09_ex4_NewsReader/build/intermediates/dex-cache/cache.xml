@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joe\Documents\Classes\SPR2017\ITC 162 Mobile\HM_ch09_ex4_NewsReader\HM_ch09_ex4_NewsReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ed351b66fd386d4d66ec8380f86e23b99d19a01">
+        <dex dex="C:\Users\Joe\Documents\Classes\SPR2017\ITC 162 Mobile\HM_ch09_ex4_NewsReader\HM_ch09_ex4_NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_069d025354af7b1a255028ec1918b54e326e5eac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joe\Documents\Classes\SPR2017\ITC 162 Mobile\HM_ch09_ex4_NewsReader\HM_ch09_ex4_NewsReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Joe\Documents\Classes\SPR2017\ITC 162 Mobile\HM_ch09_ex4_NewsReader\HM_ch09_ex4_NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3f5298d64a59c2eaffc2251815cd2e16fcac19a0\classes.dex" />
+    </item>
+
+</items>

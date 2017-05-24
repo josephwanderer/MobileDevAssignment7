@@ -1,0 +1,4 @@
+#Tue May 23 08:30:36 PDT 2017
+base.0=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\HM_ch09_ex4_NewsReader\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\HM_ch09_ex4_NewsReader\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
